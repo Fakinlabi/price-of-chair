@@ -1,2 +1,2 @@
 DEBUG = False
-ADMIN = frozenset(['akinlabifm@gmail.com'])
+ADMINS = frozenset(['akinlabifm@gmail.com'])
